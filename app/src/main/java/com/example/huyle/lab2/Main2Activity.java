@@ -1,3 +1,10 @@
+//Nhom 8
+//Nguyen Minh Thanh - 1420119
+//Le Duc Huy - 1420195
+//Dao Trong Nghia 1420219
+//Tran Minh Nhut - 1420223
+//Nguyen Minh Quan - 1420234
+
 package com.example.huyle.lab2;
 
 import android.content.Intent;
